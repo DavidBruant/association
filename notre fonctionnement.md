@@ -3,7 +3,7 @@ title: "Notre fonctionnement"
 order: 1
 in_menu: true
 ---
-L'Échappée Belle est une association loi 1901.
+L'Échappée Belle est une SUPER association loi 1901.
 
 [Nos statuts](statuts)
 
